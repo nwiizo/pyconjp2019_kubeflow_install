@@ -1,2 +1,2 @@
-# pyconjp2019_kubeflow
-gpu.cloud.gmo.jp にKubeflowを構築してみた。
+# 概要
+[GPUクラウド byGMO](https://gpu.cloud.gmo.jp/) 上にKubeflowを構築するリポジトリ
